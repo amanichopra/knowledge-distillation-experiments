@@ -1,0 +1,1 @@
+python3 train.py --device cuda --train_batch_size 128 --test_batch_size 128 --train_num_workers 2 --test_num_workers 2 --epochs 50 --lr 0.001 --dropout 0.1 --loss ce --opt adam --mod cnn_teacher --log_wandb 1 --mod_save_path . 
