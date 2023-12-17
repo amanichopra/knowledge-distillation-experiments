@@ -39,6 +39,8 @@ Results:
 Hyperparameter Sweep:
 ![Results](./images/sweep.png)
 
+Weights & Biases Project: https://wandb.ai/amanichopra/knowledge-distillation-experiments/overview?workspace=user-amanichopra
+
 
 
 
